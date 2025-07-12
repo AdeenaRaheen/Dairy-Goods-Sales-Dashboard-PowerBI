@@ -27,7 +27,7 @@ This page provides a high-level summary of the overall business health and key s
     * Filter by Brand
 
 **Overview & Sales Performance Page:**
-*[[Overview Page Screenshot]](<img width="896" height="507" alt="Dairy Sales performance overview" src="https://github.com/user-attachments/assets/b60d3b30-055b-44de-99d3-f938aa1544f0" />)*
+*[[Overview Page Screenshot]][(<img width="896" height="507" alt="Dairy Sales performance overview" src="https://github.com/user-attachments/assets/b60d3b30-055b-44de-99d3-f938aa1544f0" />)]
 
 ## 2. Operations & Product Quality
 
