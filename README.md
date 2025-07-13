@@ -43,7 +43,7 @@ This page delves into more detailed operational metrics, including sales distrib
     * Filter by Sales Channel
 
 **Operations & Product Quality Page:**
-*![[Operations Page Screenshot]](<img width="896" height="507" alt="Operations and product quality overview" src="https://github.com/user-attachments/assets/e3116c1c-2a36-4218-8713-ace6bc7f88e8" />)*
+*![[Operations Page Screenshot]](<img width="896" height="507" alt="Operations and product quality overview" src="https://github.com/user-attachments/assets/e3116c1c-2a36-4218-8713-ace6bc7f88e8" />)]
 
 ## Data Source
 
