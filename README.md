@@ -43,7 +43,8 @@ This page delves into more detailed operational metrics, including sales distrib
     * Filter by Sales Channel
 
 **Operations & Product Quality Page:**
-*![[Operations Page Screenshot]](<img width="896" height="507" alt="Operations and product quality overview" src="https://github.com/user-attachments/assets/e3116c1c-2a36-4218-8713-ace6bc7f88e8" />)]
+<img width="896" height="507" alt="Dairy-Goods-Sales-Dashboard-PowerBI" src="https://github.com/user-attachments/assets/c2fe5ffc-1c86-42c3-befa-bd391c98dde4" />
+
 
 ## Data Source
 
