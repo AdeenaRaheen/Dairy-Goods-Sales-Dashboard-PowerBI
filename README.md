@@ -50,14 +50,6 @@ This page delves into more detailed operational metrics, including sales distrib
 
 The dashboard utilizes a simulated dataset containing dairy sales records, product information, customer locations, inventory levels, and farm-related metrics.
 
-## How to View/Use
-1.  Download the `.pbix` file from this repository.
-2.  Open the file using Power BI Desktop.
-3.  **Explore the Dashboard:**
-    * Use the navigation tabs at the bottom to switch between the "Overview & Sales Performance" and "Operations & Product Quality" pages.
-    * Utilize the slicers on the left-hand side of each page to filter data by Date, Brand, Location, and Sales Channel. Note that key filters are synchronized across pages for a seamless experience.
-    * Hover over visuals for detailed tooltips.
-    * Click on elements within charts (e.g., a specific brand bar, a location in the matrix) to cross-filter other visuals on the same page.
 
 ## Technologies Used
 
@@ -65,3 +57,4 @@ The dashboard utilizes a simulated dataset containing dairy sales records, produ
 * **DAX (Data Analysis Expressions):** For creating custom measures and calculated columns.
 
 ## Author:** Adeena Raheen
+*https://www.linkedin.com/in/adeena-raheen-data-analyst/*
